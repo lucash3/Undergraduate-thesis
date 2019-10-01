@@ -1,0 +1,25 @@
+Aproximação do problema via cenário prático do Teorema de Bayes: 
+interpretação de falso positivo e Probabilidade Condicional
+
+Rigor adotado no experimento: intenta-se verificar quantos (e em que posição relativa) sensores são necessários
+para detecção de obstáculos acima da linha de cintura. 
+
+*True Positive (TP) ~ Verdadeiro Positivo:  total de detecção correta;
+
+*False Positive (FP) ~ Falso Positivo: total de vezes em que foi detectado obstáculo, porém não havia;
+
+*False Negative (FN) ~ Falso Negativo: total de vezes em que não foi detectado obstáculo, porém havia;
+
+*True Negative (TN) ~ Verdadeiro Negativo: não foi detectado obstáculo e realmente não havia.
+
+A partir da conceituação acima define-se:
+
+*Sensibilidade: Probabilidade da detecção ser positiva, dado que existe obstáculo. Ou seja, capacidade do teste
+de acertar o diagnóstico da existência de uma barreira (e em última instância evitá-la);
+
+*Especificidade: Probabilidade do teste ser negativo, dado que não existe obstáculo. Ou seja, capacidade do teste
+de acertar o diagnóstico da inexistência de uma barreira (e portanto manter o sistema invariante);
+
+*Acurácia: Probabilidade do diagnóstico do teste estar correto.
+
+
