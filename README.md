@@ -3,7 +3,8 @@ PFG @ Universidade de Brasília
 
 Desenvolvimento computacional do Projeto Final de Graduação para obtenção do Grau de Engenheiro de Redes de Comunicação.
 
-CESSÃO DE DIREITOS
+**CESSÃO DE DIREITOS**
+
 AUTORES: Lucas Henrique Santos Souza e Welligtton Silva Cavedo
 
 TÍTULO: Uma Abordagem IoT em Tecnologias Assistivas.
