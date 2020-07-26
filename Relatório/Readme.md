@@ -1,4 +1,4 @@
-## Relatório Final do projeto submetido ao Departamento de Engenharia Elétrica como requisito parcial para obtenção do grau de Engenheiro de Redes de Comunicação.
+## Relatório Final do projeto submetido ao Departamento de Engenharia Elétrica da Universidade de Brasília como requisito para obtenção do grau de Engenheiro de Redes de Comunicação.
 
 **REFERÊNCIA BIBLIOGRÁFICA**
 
