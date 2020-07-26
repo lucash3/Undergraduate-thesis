@@ -1,6 +1,6 @@
-Relatório Final do projeto submetido ao Departamento de Engenharia Elétrica como requisito parcial para obtenção do grau de Engenheiro de Redes de Comunicação.
+## Relatório Final do projeto submetido ao Departamento de Engenharia Elétrica como requisito parcial para obtenção do grau de Engenheiro de Redes de Comunicação.
 
-REFERÊNCIA BIBLIOGRÁFICA
+**REFERÊNCIA BIBLIOGRÁFICA**
 
 SOUZA, L. H E CAVEDO, W. S (2019). Uma Abordagem IoT em Tecnologias Assistivas. Projeto Final de
 Graduação, Departamento de Engenharia Elétrica, Universidade de Brasília, Brasília, DF, 65 p.
