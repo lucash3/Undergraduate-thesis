@@ -6,6 +6,7 @@ Desenvolvimento computacional do Projeto Final de Graduação para obtenção do
 **CESSÃO DE DIREITOS**
 
 AUTORES: Lucas Henrique Santos Souza e Welligtton Silva Cavedo
+
 ORIENTAÇÃO: Claudia Jacy Barenco Abbas
 
 TÍTULO: Uma Abordagem IoT em Tecnologias Assistivas.
