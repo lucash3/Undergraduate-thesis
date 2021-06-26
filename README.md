@@ -1,7 +1,7 @@
-# Projeto Final de Graduação
-PFG @ Universidade de Brasília
+## Projeto Final de Graduação
+_Undergraduate thesis at University of Brasilia_
 
-Desenvolvimento computacional do Projeto Final de Graduação para obtenção do Grau de Engenheiro de Redes de Comunicação.
+Desenvolvimento computacional do Projeto Final de Graduação para obtenção do Grau de Engenheiro de Redes de Comunicação (2019).
 
 **CESSÃO DE DIREITOS**
 
